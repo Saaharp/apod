@@ -1,7 +1,7 @@
 # APOD Web App
 This application allows the user to input a date and display Astronomy images and videos taken by NASA on that day.
 
-**Link to project:** https://niotd.netlify.app/
+**Link to project:** https://hac-apod.netlify.app/
 
 ![alt tag](https://user-images.githubusercontent.com/102547132/206800326-a407bca0-3b22-4482-bc58-864038ecfaa8.jpg)
 
