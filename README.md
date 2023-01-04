@@ -3,7 +3,7 @@ This application allows the user to input a date and display Astronomy images an
 
 **Link to project:** https://hac-apod.netlify.app/
 
-![alt tag](https://user-images.githubusercontent.com/102547132/206800326-a407bca0-3b22-4482-bc58-864038ecfaa8.jpg)
+<img src="https://user-images.githubusercontent.com/102547132/206803750-1a78376b-c5c4-4c57-863e-cb84bb6f6c6c.gif" alt="Project3" height="" />
 
 
 ## How It's Made:
