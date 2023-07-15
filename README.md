@@ -10,6 +10,12 @@ This application allows the user to input a date and display Astronomy images an
 
 **Tech used:** HTML, CSS, JavaScript
 
+## Optimizations:
+Search and Filter Functionality: Implement search and filter options to allow users to explore astronomy images and videos based on specific criteria, such as keywords, categories, or astronomical objects.
+
+Save and Favorites Feature: Introduce a "save" or "favorites" functionality that allows users to bookmark or save their favorite astronomy images or videos for future reference.
+
+Sharing Options: Incorporate sharing capabilities to enable users to share astronomy images or videos with others through social media, email, or other messaging platforms.
 
 ## Examples:
 Take a look at a couple of these examples that I have in my own portfolio:
